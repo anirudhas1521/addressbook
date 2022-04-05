@@ -31,6 +31,6 @@ spec:
     spec:
       containers:
       - name: addressbook
-        image: ashish158/practice:tagVersion
+        image: anirudha1521/test:tagVersion
         ports:
         - containerPort: 8080
